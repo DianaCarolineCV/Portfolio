@@ -33,14 +33,14 @@ export const Header = styled.div `
   }
 }
     
-    li > a{
+    li > a {
     color: var(--color-white);
     font-size: .875rem;
    
     }
      
     
-    h2{
+    h2 {
     font-size: 1rem;
     font-weight: 700;
     color: var(--color-white);
@@ -51,21 +51,18 @@ export const Header = styled.div `
         
     ul {
         gap:100px;  
-    }
-    
+    }  
+      
     h2 {
         font-size: 2rem;
         height: 50px; 
-    }
-    
-    li > a{
+    } 
+     
+    li > a {
     font-size: 1.25rem;
    
-    }
-     
-    }
-    
-
+    }    
+}   
 `
 
 
@@ -76,20 +73,19 @@ export const Main = styled.div `
     padding: 0 2rem;
     background-color: var(--color-black-2);
     
-    img{
+    img {
         display: none;
     }
   
     
     @media (min-width: 58.125rem) {
-    img{
+    img {
         display: block;
         width: 25%;
         border-radius: 50%
     }
         
 }
-
 `
 
 export const Container = styled.div `
@@ -177,19 +173,17 @@ export const Footer = styled.ul `
     li>a>img{
         height: 25px;
         width: 25px;
-    }
+    } 
     
     span {
         color: var(--color-red);    
     }
-    
-    
-     
+             
     @media (min-width: 58.125rem) {
         margin-top: 0px;
 }
     
-    ` 
+` 
     
     
     

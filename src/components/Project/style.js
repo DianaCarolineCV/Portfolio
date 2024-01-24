@@ -57,7 +57,7 @@ export const Main = styled.div`
     flex-wrap: wrap;
     gap: 1.25rem;
 
-    section{
+    section {
       width: 100%;
       height: 30rem;
       display: flex;
@@ -67,7 +67,7 @@ export const Main = styled.div`
       border-radius: 1.25rem;
       padding: 1.25rem; 
       
-      h2{
+      h2 {
         text-align:center;
         font-size: 1.25rem      
       }
@@ -80,15 +80,14 @@ export const Main = styled.div`
         
       }
       
-      p{
+      p {
         text-align: justify; 
         margin: 15px 0;
         
-        span{
+        span {
           color: var(--color-red);
           font-weight: bold;   
-        }
-        
+        }   
       }
       
       a { 
@@ -111,22 +110,18 @@ export const Main = styled.div`
           } 
         }
       }
-    }
+    }  
     
-     
-    @media (min-width: 86.0625rem) {
-  
-      div{
+    @media (min-width: 86.0625rem) { 
+      div {
         flex-direction: row;
         align-items: center;
         
-        section{
+        section {
         width: 30%;
         height: 20rem;
-      }
-        
-      }
+      }    
+    }
   }
-    
-    
+       
 `;
