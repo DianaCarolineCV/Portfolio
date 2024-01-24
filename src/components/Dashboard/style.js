@@ -81,7 +81,7 @@ export const Main = styled.div `
     @media (min-width: 58.125rem) {
     img {
         display: block;
-        width: 25%;
+        width: 200px;
         border-radius: 50%
     }
         
@@ -179,9 +179,6 @@ export const Footer = styled.ul `
         color: var(--color-red);    
     }
              
-    @media (min-width: 58.125rem) {
-        margin-top: 0px;
-}
     
 ` 
     
