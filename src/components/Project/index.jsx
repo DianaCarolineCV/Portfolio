@@ -26,7 +26,7 @@ function ProjectPage() {
                         <h2>Kenzie Hub</h2>
                         <h3>É uma aplicação destinada a cadastrar tecnologias.</h3>
                         <p><span>--</span> Tecologias: React, React-Hook-form, Styled-Component, Axios, React-Icons, Toastify e etc, além de utilizar conceitos como Mobile first e Responsividade.</p>
-                        <a href="https://github.com/DianaCarolineCV/Kenzie-Hub-Atualizado" target="blank">Clique aqui para ver o projeto</a>
+                        <a href="https://react-entrega-kenzie-hub-diana-caroline-cv.vercel.app/" target="blank">Clique aqui para ver o projeto</a>
                     </section>
 
                     <section>
