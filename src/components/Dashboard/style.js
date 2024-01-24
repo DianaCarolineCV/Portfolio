@@ -9,7 +9,7 @@ export const Header = styled.div `
     
     ul {
     display: flex;
-    gap:100px; 
+    gap: 25px; 
     
     }
     
@@ -35,18 +35,35 @@ export const Header = styled.div `
     
     li > a{
     color: var(--color-white);
-    font-size: 1.25rem;
+    font-size: .875rem;
    
     }
      
     
     h2{
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 700;
-    height: 50px; 
     color: var(--color-white);
     }
     
+    
+    @media (min-width: 53.125rem) {
+        
+    ul {
+        gap:100px;  
+    }
+    
+    h2 {
+        font-size: 2rem;
+        height: 50px; 
+    }
+    
+    li > a{
+    font-size: 1.25rem;
+   
+    }
+     
+    }
     
 
 `
@@ -60,9 +77,19 @@ export const Main = styled.div `
     background-color: var(--color-black-2);
     
     img{
+        display: none;
+    }
+  
+    
+    @media (min-width: 58.125rem) {
+    img{
+        display: block;
         width: 25%;
         border-radius: 50%
     }
+        
+}
+
 `
 
 export const Container = styled.div `
@@ -145,6 +172,7 @@ export const Footer = styled.ul `
     gap:30px; 
     color: var(--color-white);
     padding: 0 2rem;
+    margin-top: 30px;
      
     li>a>img{
         height: 25px;
@@ -155,4 +183,13 @@ export const Footer = styled.ul `
         color: var(--color-red);    
     }
     
+    
+     
+    @media (min-width: 58.125rem) {
+        margin-top: 0px;
+}
+    
     ` 
+    
+    
+    

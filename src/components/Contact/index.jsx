@@ -36,7 +36,7 @@ function ContactPage() {
             <Header>
                 <div>
                     <p>Fale comigo</p>
-                    <Link to={"/"}><img src={Voltar} alt="ícone do instagram" /></Link>
+                    <Link to={"/"}><img src={Voltar} alt="seta" /></Link>
                 </div>
                 <hr />
             </Header>
@@ -50,7 +50,7 @@ function ContactPage() {
                         </section>
                         <section>
                             <span>Telefone/Whats-app: </span>
-                            <p>(73) 98826-7386</p>
+                            <a href="https://wa.me/5573988267386?text=Ol%C3%A1%21" target="blank">(73) 98826-7386</a>
                         </section>
                     </div>
                 </section>

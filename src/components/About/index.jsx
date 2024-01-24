@@ -9,7 +9,7 @@ function AboutPage() {
             <Header>
                 <div>
                     <p>Sobre mim</p>
-                    <Link to={"/"}><img src={Voltar} alt="ícone do instagram" /></Link>
+                    <Link to={"/"}><img src={Voltar} alt="seta" /></Link>
                 </div>
                 <hr />
             </Header>
@@ -18,17 +18,15 @@ function AboutPage() {
                 <div>
                     <h2>Um pouco sobre minha história</h2>
                     <p>
-                        Olá, meu nome é Diana e tenho 24 anos. Sou formada em Fisioterapia e possuo uma pós-graduação em UTI. Atualmente, estou estudando Ciência da Computação. É interessante notar que trabalho em uma área totalmente diferente da minha formação inicial. <br />
+                        Olá, meu nome é Diana, tenho 25 anos e sou formada em Fisioterapia, com uma pós-graduação em UTI. Atualmente, estou imersa no estudo de Ciência da Computação, uma escolha que marca uma transição significativa em minha trajetória profissional.<br />
 
-                        Na verdade, nunca me identifiquei com a área da saúde e percebo que foi uma decisão que tomei quando ainda era jovem e impulsiva. À medida que trabalhava nesse campo, sentia-me extremamente frustrada e infeliz.<br />
+                        Desde o início, nunca me senti plenamente conectada com a área da saúde, percebo hoje que essa decisão foi tomada em uma fase mais jovem e impulsiva da minha vida. À medida que me envolvia no campo da Fisioterapia, a sensação de frustração e infelicidade crescia.<br />
 
-                        Meu marido é programador e sempre me sentia intrigada pelo que ele fazia. Um dia, decidi pesquisar sobre essa área por conta própria e acabei me apaixonando. Passei dias, talvez semanas, estudando o assunto.<br />
+                        Meu marido, programador, sempre despertou minha curiosidade sobre sua profissão. Um dia, movida por essa curiosidade, decidi explorar o universo da programação por conta própria e me apaixonei por esse novo horizonte. Dediquei dias e semanas ao estudo do assunto, compreendendo que a verdadeira paixão reside em trabalhar com aquilo que amamos ao longo de nossas vidas.<br />
 
-                        Acredito na filosofia de trabalhar com aquilo que amamos, afinal, faremos isso pelo resto de nossas vidas. Por isso, decidi fazer uma transição de carreira, com o objetivo de trabalhar com front-end.<br />
+                        Essa convicção me impulsionou a realizar uma mudança de carreira com foco no desenvolvimento front-end. Após extensa pesquisa, escolhi trilhar o caminho de uma escola de programação com um programa de um ano de duração. O processo de absorver conteúdos densos em um curto período de tempo não foi encarado como um sacrifício, mas sim como uma jornada pela qual me encantei profundamente.<br />
 
-                        Após pesquisar  decidi seguir o caminho de uma escola de programação com duração de um ano. Dediquei muitas horas para aprender conteúdos densos em pouco tempo, mas não encarei isso como um sacrifício, pois realmente adorei o processo.<br />
-
-                        Em seguida, entrei no mercado de trabalho e ingressei em uma faculdade, onde continuo me aprimorando constantemente.
+                        Com a conclusão desse período de estudo, ingressei no mercado de trabalho e me matriculei em uma faculdade, onde continuo a aprimorar constantemente minhas habilidades. Acredito que essa mudança não apenas representa uma transformação profissional, mas também um passo em direção a uma carreira na qual encontro realização e paixão. Estou entusiasmada com o que o futuro reserva nesse novo capítulo da minha vida profissional.<br />
 
                     </p>
                 </div>
@@ -50,7 +48,7 @@ function AboutPage() {
                     <h2>Soft Skills</h2>
                     <h3>
                         Comunicativa <span>--</span> Organizada <span>--</span> Proativa  <br />
-                        Ágil <span>--</span> Bom trabalho em equipe <span>--</span> Aprendizagem rápida
+                        Ágil <span>--</span> Boa trabalho em equipe <span>--</span> Aprendizagem rápida
                     </h3>
                 </div>
                 <hr />
@@ -58,7 +56,7 @@ function AboutPage() {
                 <div>
                     <h2>Experiência</h2>
                     <h3>
-                        Programadora Front-end <span>--</span> 8 meses(atual) <br />
+                        Programadora Front-end <span>--</span> 1 ano (atual)<br />
                         Monitora de alunos em desenvolvimento front-end <span>--</span>  6 meses
                     </h3>
                 </div>

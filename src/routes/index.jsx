@@ -13,8 +13,7 @@ function RoutePages() {
       <Route path="/" element={<DashboardPage />} />
       <Route path="/sobre" element={<AboutPage />} />
       <Route path="/contato" element={<ContactPage />} />  
-      <Route path="/contato" element={<ProjectPage />} />   
-       
+      <Route path="/projetos" element={<ProjectPage />} />      
     </Routes>
   );
 }
