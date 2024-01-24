@@ -19,7 +19,7 @@ function ProjectPage() {
                         <h3>Rede social para compartilhar roteiros de viagens</h3>
                         <p><span>--</span> Tecnologias: React, TypeScript, React-Router-Dom, React-Hook-form, Yup/Yup resolver, React toastify, Styled-Components, Axios, React Icons e JSON server.</p>
                         <p>Foi um projeto desenvolvido em equipe, onde atuei como SM.</p>
-                        <a href="https://github.com/DianaCarolineCV/your-trip" target="blank">Clique aqui para ver o projeto</a>
+                        <a href="https://your-trip-black.vercel.app/" target="blank">Clique aqui para ver o projeto</a>
                     </section>
 
                     <section>
@@ -33,7 +33,7 @@ function ProjectPage() {
                         <h2>Burguer</h2>
                         <h3>Um e-commerce com função de carrinho e pesquisa.</h3>
                         <p><span>--</span> Tecnologias: React e utilizando diversas bibliotecas. </p>
-                        <a href="https://github.com/DianaCarolineCV/E-commerce---React-" target="blank">Clique aqui para ver o projeto</a>
+                        <a href="https://react-entrega-diana-caroline-cv-hamburgueria-da-kenzie.vercel.app/" target="blank">Clique aqui para ver o projeto</a>
                     </section>
 
                     <section>

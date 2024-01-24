@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 import { Header, Main, Container, ContainerText, Buttons, Footer } from "./style";
-import Foto from "../../styles/img/eu.png"
+import Foto from "../../styles/img/eu.jpeg"
 import GitHub from "../../styles/img/github.svg"
 import Instagram from "../../styles/img/instagram-port.svg"
 import Linkedin from "../../styles/img/linkedin.svg"
